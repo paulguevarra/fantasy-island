@@ -4,6 +4,7 @@ h1 {
 body {
   color: yellow;
   background-color: black;
+  text-align: center;
 }
 p {
   font-size: 40px;
