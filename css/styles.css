@@ -1,3 +1,14 @@
 h1 {
-  color: darkred;
+  color: yellow;
+}
+body {
+  color: yellow;
+  background-color: black;
+}
+p {
+  font-size: 40px;
+  font-style: oblique;
+}
+h2 {
+  font-family: fantasy;
 }
